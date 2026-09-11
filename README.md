@@ -221,6 +221,20 @@ Author
 Olalekan Akinola
 Market and Investment Analyst
 GitHub | Lemm Financials
+## Published Report
+
+Read the complete investment report on
+[Lemm Financials](https://olalekanakinola.substack.com/p/bua-companies-investment-report?r=4r2j1k&utm_campaign=post&utm_medium=web).
+
+## Author
+
+**Olalekan Akinola, FMVA®**  
+Financial Research | Investment Analysis | Market Intelligence | Python
+
+- [GitHub Profile](https://github.com/OlalekanAkinola)
+- [LinkedIn](https://www.linkedin.com/in/olalekan-akinola)
+- [Lemm Financials](https://olalekanakinola.substack.com/)
+
 
 Disclaimer
 
