@@ -214,17 +214,17 @@ Differences in available trading dates and market liquidity may affect the calcu
 
 Full Report
 
-The complete investor-facing report is available on my substack @Lemm Financials.
+The complete investor-facing report is available on my substack @Olalekan Akinola.
 
 Author
 
 Olalekan Akinola
 Market and Investment Analyst
-GitHub | Lemm Financials
+GitHub | Olalekan Akinola
 ## Published Report
 
 Read the complete investment report on
-[Lemm Financials](https://olalekanakinola.substack.com/p/bua-companies-investment-report?r=4r2j1k&utm_campaign=post&utm_medium=web).
+[Olalekan Akinola](https://olalekanakinola.substack.com/p/bua-companies-investment-report?r=4r2j1k&utm_campaign=post&utm_medium=web).
 
 ## Author
 
@@ -233,7 +233,7 @@ Financial Research | Investment Analysis | Market Intelligence | Python
 
 - [GitHub Profile](https://github.com/OlalekanAkinola)
 - [LinkedIn](https://www.linkedin.com/in/olalekan-akinola)
-- [Lemm Financials](https://olalekanakinola.substack.com/)
+- [Olalekan Akinola](https://olalekanakinola.substack.com/)
 
 
 Disclaimer
